@@ -1,0 +1,2 @@
+# Analisis-Radionuklida-Alam-pada-Sampel-Pasir-Kuarsa-Menggunakan-Spektrometer-Gamma
+Repositori ini berisi laporan penelitian mengenai analisis kandungan radionuklida alam pada sampel pasir kuarsa dari wilayah bekas penambangan timah di Kepulauan Bangka Belitung. Penelitian ini dilakukan menggunakan metode spektrometri gamma dengan bantuan perangkat lunak Y-Spect untuk mengolah dan menganalisis data hasil pengukuran.
