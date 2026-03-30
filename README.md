@@ -12,6 +12,11 @@ The main objective of this study is to evaluate the concentration levels of natu
 - Data analysis using *Y-Spect software* with IAEA nuclide library
 - Calculation of radionuclide concentrations (Bq/kg)
 
+## Tools & Software
+- Gamma Spectrometer
+- Y-Spect Software
+- IAEA Nuclide Library
+
 ## Radionuclides Analyzed
 - Pb-214  
 - Bi-214  
@@ -36,8 +41,3 @@ The results indicate relatively high concentrations of *Ac-228* and *Tl-208*, su
 
 ## Impact
 High radionuclide concentrations may pose health risks, especially for mining workers exposed to long-term gamma radiation. This study highlights the importance of radiation monitoring in post-mining environments.
-
-## Tools & Software
-- Gamma Spectrometer
-- Y-Spect Software
-- IAEA Nuclide Library
